@@ -23,7 +23,7 @@ public class Main {
             System.out.println("No puedes tener popochos negativos.");
         }
         else{
-            System.out.println("Son demasiados popochos para una cama");
+            System.out.println("Muchos popochos para una cama");
         }
 
         for(int i= 1; i <= popochos ;i++){
